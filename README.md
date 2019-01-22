@@ -4,7 +4,7 @@ The TestPrime jar is created as an executable jar which is bundled with junit.ja
 
 To run the executable jar use below command
 
-java -jar TestPrime.jar < argument >
+java -jar TestPrime.jar 10  
 
 Note: Please ensure jdk is added to the CLASS PATH (https://java.com/en/download/help/path.xml) before executing the jar file.
 
