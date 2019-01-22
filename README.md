@@ -6,5 +6,7 @@ To run the executable jar use below command
 
 java -jar TestPrime.jar 10  
 
+*prints the multiplication table without overlapping for N<=29
+
 Note: Please ensure jdk is added to the CLASS PATH (https://java.com/en/download/help/path.xml) before executing the jar file.
 
